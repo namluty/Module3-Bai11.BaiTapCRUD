@@ -1,0 +1,8 @@
+product/mvc/service/ProductServiceImpl.java
+ product.mvc.service.ProductServiceImpl
+product/mvc/service/ProductService.java
+ product.mvc.service.ProductService
+product/mvc/model/Product.java
+ product.mvc.model.Product
+product/mvc/controller/ProductServlet.java
+ product.mvc.controller.ProductServlet
